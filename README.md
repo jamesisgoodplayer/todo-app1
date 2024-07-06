@@ -8,7 +8,7 @@ If you want to learn how to build this yourself you can check out the YouTube vi
 ## License
 [MIT](LICENSE.md) © [Max Sandelin](https://instagram.com/themaxsandelin)
 Usage
-[Explain how to use or run the project here.](http://47.236.71.140:8082/)
+[Explain how to use or run the project here.](http://47.236.86.65:8082/)
 
 Contributing
 If you want others to contribute code or provide feedback, provide information here.
@@ -25,13 +25,13 @@ Xie Minggang
 	Name and surname
   XieMingang
 	Your image
-todo-app
+   todo-app
 	Your student id
   20222113
 	Your url for both application.
-  http://47.236.71.140:8082/
+  http://47.236.86.65:8082/
 
 	Set your repository to be public
    https://github.com/jamesisgoodplayer/final-work.git
 	Post your github url in the assignment
-http://47.236.71.140:8082/
+http://47.236.86.65:8082/
